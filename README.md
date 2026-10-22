@@ -1,4 +1,4 @@
-# 📊 Análisis de Tarifas de Prepago (Megaline)
+# 📊 Análisis de Ingresos por Tarifa (Megaline)
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green?logo=pandas)](https://pandas.pydata.org/)
