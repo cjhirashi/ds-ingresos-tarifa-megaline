@@ -132,7 +132,7 @@ El análisis permitió obtener hallazgos clave:
 ## 👨‍💻 Autor
 
 **Carlos Jiménez Hirashi**
-💼 Data Scientist Jr. | Python & Machine Learning
+💼 Data Scientist & Intelligent Automation Architect
 
 📧 [cjhirashi@gmail.com](mailto:cjhirashi@gmail.com) · 🌐 [LinkedIn](https://www.linkedin.com/in/cjhirashi)
 
