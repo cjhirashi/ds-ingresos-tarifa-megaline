@@ -14,7 +14,7 @@
 
 ## 🚀 Descripción
 
-Este proyecto corresponde al **Sprint 5** del programa de Ciencia de Datos en **TripleTen**.
+Este proyecto corresponde al **Sprint 5** del programa de Ciencia de Datos.
 El objetivo es analizar datos de los clientes del operador **Megaline**, con el fin de determinar cuál de las tarifas de prepago (**Surf** o **Ultimate**) genera mayores ingresos y así optimizar la estrategia de marketing y publicidad.
 
 Se trabaja con datos de **500 clientes durante 2018**, incluyendo llamadas, SMS, tráfico de internet y plan contratado.
