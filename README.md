@@ -113,9 +113,9 @@ Más detalle en [`/data/README.md`](https://github.com/cjhirashi/proyecto-sprint
 
 El análisis permitió obtener hallazgos clave:
 
-1. **Consumo promedio:** los usuarios de **Ultimate** suelen consumir más minutos y datos, mientras que los de **Surf** tienden a enviar más SMS.
-2. **Ingresos:** en promedio, **Ultimate** genera ingresos más altos y estables, mientras que **Surf** depende de pagos extra por excedentes.
-3. **Hipótesis:** se confirmó que existen diferencias significativas en ingresos promedio entre **Surf** y **Ultimate**. Asimismo, los usuarios del área de **NY/NJ** generan más ingresos que los de otras regiones.
+1. **Consumo promedio:** ambos planes consumen casi lo mismo en minutos (≈436 al mes) y en datos (≈17 GB); los usuarios de **Ultimate** envían algo más de mensajes (46 frente a 40). La diferencia está en los límites incluidos: con consumos parecidos, los usuarios de **Surf** superan su límite más a menudo.
+2. **Ingresos:** en promedio, **Ultimate** genera ingresos más altos y estables (72.31 USD al mes frente a 60.71 de **Surf**), mientras que **Surf** depende de pagos extra por excedentes.
+3. **Hipótesis:** se confirmó que existen diferencias significativas en ingresos promedio entre **Surf** y **Ultimate** (p = 3.2 × 10⁻¹⁵). Asimismo, los usuarios del área de **NY/NJ** generan menos ingresos que los de otras regiones (59.92 frente a 65.22 USD; p = 0.034).
 4. **Distribuciones:** los ingresos muestran colas largas (usuarios con consumos atípicos), lo que evidencia la importancia de controlar outliers en el análisis.
 
 ---
@@ -124,7 +124,7 @@ El análisis permitió obtener hallazgos clave:
 
 1. **Estrategia publicitaria:** orientar mayores esfuerzos de marketing hacia el plan **Ultimate**, dado que asegura ingresos más estables.
 2. **Plan Surf:** promoverlo como opción inicial, pero resaltar costos extra para incentivar la migración a **Ultimate**.
-3. **Segmentación regional:** invertir en campañas específicas en **NY/NJ**, donde los ingresos por usuario son más altos.
+3. **Segmentación regional:** estudiar **NY/NJ**, donde los ingresos por usuario son menores, para saber si se debe a la mezcla de planes o al uso, antes de dirigir ahí el presupuesto de campañas.
 4. **Gestión de datos:** mantener monitoreo constante de clientes con consumos atípicos para identificar oportunidades o riesgos.
 
 ---
