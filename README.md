@@ -7,19 +7,18 @@
 [![SciPy](https://img.shields.io/badge/SciPy-Statistics-purple?logo=scipy)](https://scipy.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
 [![Pipenv](https://img.shields.io/badge/Pipenv-Environment-lightgrey?logo=pypi)](https://pipenv.pypa.io/en/latest/)
-[![Status](https://img.shields.io/badge/Project-Sprint%205-blueviolet)]()
-[![GitHub](https://img.shields.io/badge/Repo-GitHub-black?logo=github)](https://github.com/cjhirashi/proyecto-sprint-5)
+[![GitHub](https://img.shields.io/badge/Repo-GitHub-black?logo=github)](https://github.com/cjhirashi/ds-ingresos-tarifa-megaline)
 
 ---
 
 ## 🚀 Descripción
 
-Este proyecto corresponde al **Sprint 5** del programa de Ciencia de Datos.
+Este es un proyecto de TripleTen (programa de Ciencia de Datos).
 El objetivo es analizar datos de los clientes del operador **Megaline**, con el fin de determinar cuál de las tarifas de prepago (**Surf** o **Ultimate**) genera mayores ingresos y así optimizar la estrategia de marketing y publicidad.
 
 Se trabaja con datos de **500 clientes durante 2018**, incluyendo llamadas, SMS, tráfico de internet y plan contratado.
 
-Acceso al Notebook: [notebooks/megaline\_analysis.ipynb](https://github.com/cjhirashi/proyecto-sprint-5/blob/main/notebooks/megaline_analysis.ipynb)
+Acceso al Notebook: [notebooks/megaline\_analysis.ipynb](https://github.com/cjhirashi/ds-ingresos-tarifa-megaline/blob/main/notebooks/megaline_analysis.ipynb)
 
 ---
 
@@ -70,8 +69,8 @@ Acceso al Notebook: [notebooks/megaline\_analysis.ipynb](https://github.com/cjhi
 1. **Clonar repositorio**
 
    ```bash
-   git clone https://github.com/cjhirashi/proyecto-sprint-5.git
-   cd proyecto-sprint-5
+   git clone https://github.com/cjhirashi/ds-ingresos-tarifa-megaline.git
+   cd ds-ingresos-tarifa-megaline
    ```
 
 2. **Crear entorno e instalar dependencias con Pipenv**
@@ -96,7 +95,7 @@ Los datos provienen de **Megaline** y se encuentran en la carpeta `/data`.
 * **internet** → Sesiones web y volumen de datos consumidos (MB).
 * **plans** → Información de tarifas (cuota mensual, minutos/SMS/datos incluidos y costos adicionales).
 
-Más detalle en [`/data/README.md`](https://github.com/cjhirashi/proyecto-sprint-5/blob/main/data/README.md).
+Más detalle en [`/data/README.md`](https://github.com/cjhirashi/ds-ingresos-tarifa-megaline/blob/main/data/README.md).
 
 ---
 
